@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3E5ncb6c9CV5MpeuXojR4MiJZbr6cbHiYNgT82bipyK159gVkfFLiuuSOP94RT/c4JwypepimNcmwevv0QnH2Q==",
+  "dgSpecHash": "yh3/x08hzwU=",
   "success": true,
-  "projectFilePath": "C:\\aaa\\IS-2024\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nejak\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nejak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nejak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nejak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
