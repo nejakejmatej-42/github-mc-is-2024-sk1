@@ -7,8 +7,8 @@ class Program
         string again = "y";
 
         while(again=="y"){
-
-            Console.Clear();
+            
+            
             Console.WriteLine("******************************");
             Console.WriteLine("******************************");
             Console.WriteLine("******************************");
