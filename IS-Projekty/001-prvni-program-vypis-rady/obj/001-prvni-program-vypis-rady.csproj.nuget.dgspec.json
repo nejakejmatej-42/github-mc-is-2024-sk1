@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj": {}
+    "c:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj": {}
   },
   "projects": {
-    "C:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj": {
+    "c:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
+        "projectUniqueName": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
         "projectName": "001-prvni-program-vypis-rady",
-        "projectPath": "C:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
+        "projectPath": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\nejak\\.nuget\\packages\\",
-        "outputPath": "C:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\obj\\",
+        "outputPath": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nejak\\AppData\\Roaming\\NuGet\\NuGet.Config"
