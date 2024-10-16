@@ -47,9 +47,8 @@ class Program
             Console.WriteLine("Prvni cislo rady: {0}", first);
             Console.WriteLine("Posledni cislo rady: {0}", last);
             Console.WriteLine("Diference cislo rady: {0}", step);
-            Console.WriteLine("Diference cislo rady: {0}", current);
     } 
  }  
 
 }
-
+ 

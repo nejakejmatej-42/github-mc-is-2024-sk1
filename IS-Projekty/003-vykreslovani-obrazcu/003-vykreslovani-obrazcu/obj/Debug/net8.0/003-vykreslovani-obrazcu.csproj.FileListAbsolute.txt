@@ -1,0 +1,15 @@
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.exe
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.deps.json
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.runtimeconfig.json
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\bin\Debug\net8.0\003-vykreslovani-obrazcu.pdb
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.AssemblyInfoInputs.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.AssemblyInfo.cs
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.csproj.CoreCompileInputs.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.sourcelink.json
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\refint\003-vykreslovani-obrazcu.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.pdb
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\003-vykreslovani-obrazcu.genruntimeconfig.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\003-vykreslovani-obrazcu\003-vykreslovani-obrazcu\obj\Debug\net8.0\ref\003-vykreslovani-obrazcu.dll
