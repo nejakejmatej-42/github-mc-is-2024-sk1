@@ -31,7 +31,7 @@ class Program
         //provede se dokud nesplni podminku zadanou uzivatelem, napr 6 + pokazde kdyz se zopakuje, zvysi se hodnota cisla i
         //zaciname od 1 aby se splnila podminka druheho cyklu, ktery napise prvni hvezdicku 
         //<= pouzivame, abychom dostali i posledni zadany radek
-        for (int i = 1; i <= height; i++)
+        /*for (int i = 1; i <= height; i++)
         {
             //cyklus, ktery tiskne hvezdicku, kdyz je j < i, tudiz pokud je i = 1 a j = 0, provede se
             //(vypise jednu hvezdicku, protoze splnil podminku) a zvysi se pokazde jeho hodnota obou cyklu, protoze uz jednou,
@@ -46,10 +46,59 @@ class Program
                 {
                     Console.Write('*'); //napise hvezdicku na stejny radek
                     System.Threading.Thread.Sleep(500);
-                }
-            }
-            Console.WriteLine();           
-     }*/
+                }*/
+
+        Console.Write("Zadejte  pocet generovanych cisel (cele cislo): ");
+        int number;  
+        while(!int.TryParse(Console.ReadLine(), out number)){ // vykricni je negace, dokud nezada uzivatel nesplni podminku, program se nespusti ale ani nespadne
+        Console.Write("Nezadali jste cele cislo, znovu zadej pocet generovanych cisel");
+        }
+
+        Console.Write("Zadejte dolni mez (cele cislo): ");
+        int dolniMez;  
+        while(!int.TryParse(Console.ReadLine(), out dolniMez)){ // vykricni je negace, dokud nezada uzivatel nesplni podminku, program se nespusti ale ani nespadne
+        Console.Write("Prvni cislo musi byt celociselne. Zadej dolni mez znovu");
+        }
+
+        Console.Write("Zadejte horni mez (cele cislo): ");
+        int horniMez;  
+        while(!int.TryParse(Console.ReadLine(), out horniMez)){ // vykricni je negace, dokud nezada uzivatel nesplni podminku, program se nespusti ale ani nespadne
+        Console.Write("Prvni cislo musi byt celociselne. Zadej horni mez znovu");
+        }
+        Console.WriteLine("Pocet cisel: {0}, dolni mez {1}, horni mez {2}.", number, dolniMez, horniMez);
+
+        int[] myArray = new int[number];
+        int kladna = 0;
+        int zaporna = 0;
+        int nuly = 0;
+        int suda = 0;
+        int licha = 0;
+
+        Random randomNumber = new Random();
+        Console.WriteLine("\n\nNahodna cisla");
+
+
+        for(int i=0; i<number; i++){
+            myArray[i] = randomNumber.Next(dolniMez, horniMez);
+            Console.WriteLine("{0}: ", myArray[i]);
+
+            if(myArray[i]>0)
+                kladna++;
+            else if (myArray[i]<0)
+                zaporna++;
+            else 
+                nuly++;
+
+            if(myArray[i] % 2 == 0)
+                suda++;
+            else
+                licha++;
+        }
+        Console.WriteLine();
+        Console.WriteLine("\n\n {0}", kladna);
+        Console.WriteLine("\n\n {0}", zaporna);
+        Console.WriteLine("\n\n {0}", nuly);
+        Console.WriteLine("\n\n {0}", suda);
+        Console.WriteLine("\n\n {0}", licha);
     }
-}
- 
+} 
