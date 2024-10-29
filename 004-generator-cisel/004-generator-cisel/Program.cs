@@ -80,7 +80,7 @@ class Program
 
         for(int i=0; i<number; i++){
             myArray[i] = randomNumber.Next(dolniMez, horniMez);
-            Console.WriteLine("{0}: ", myArray[i]);
+            Console.WriteLine("{0}", myArray[i]);
 
             if(myArray[i]>0)
                 kladna++;
@@ -95,10 +95,10 @@ class Program
                 licha++;
         }
         Console.WriteLine();
-        Console.WriteLine("\n\n {0}", kladna);
-        Console.WriteLine("\n\n {0}", zaporna);
-        Console.WriteLine("\n\n {0}", nuly);
-        Console.WriteLine("\n\n {0}", suda);
-        Console.WriteLine("\n\n {0}", licha);
+        Console.WriteLine("Pocet kladnych cisel5\n {0}", kladna);
+        Console.WriteLine("Pocet kladnych cisel\n {0}", zaporna);
+        Console.WriteLine("Pocet nul\n {0}", nuly);
+        Console.WriteLine("Pocet sudych cisel\n {0}", suda);
+        Console.WriteLine("Pocet lichych cisel\n {0}", licha);
     }
 } 
