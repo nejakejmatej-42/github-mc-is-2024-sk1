@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("002-druhy-program-soucet-cifer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb843850e355dc64e38bca6c7b5647e2de8c2181")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a67a16d71ae76db7b4a247d2a0f706313bd748d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("002-druhy-program-soucet-cifer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("002-druhy-program-soucet-cifer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
