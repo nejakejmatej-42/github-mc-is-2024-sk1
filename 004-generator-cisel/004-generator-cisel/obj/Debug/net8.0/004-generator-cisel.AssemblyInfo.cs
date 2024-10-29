@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("004-generator-cisel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d734a7773d2321f03d911ab55dfb60db73f56c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87427b80eb5f4da8ff08f6fb39c5bc4c1ea39d2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("004-generator-cisel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("004-generator-cisel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

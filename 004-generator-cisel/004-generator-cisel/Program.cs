@@ -95,10 +95,10 @@ class Program
                 licha++;
         }
         Console.WriteLine();
-        Console.WriteLine("Pocet kladnych cisel5\n {0}", kladna);
-        Console.WriteLine("Pocet kladnych cisel\n {0}", zaporna);
-        Console.WriteLine("Pocet nul\n {0}", nuly);
-        Console.WriteLine("Pocet sudych cisel\n {0}", suda);
-        Console.WriteLine("Pocet lichych cisel\n {0}", licha);
+        Console.WriteLine("Pocet kladnych cisel: {0}", kladna);
+        Console.WriteLine("Pocet kladnych cisel: {0}", zaporna);
+        Console.WriteLine("Pocet nul: {0}", nuly);
+        Console.WriteLine("Pocet sudych cisel: {0}", suda);
+        Console.WriteLine("Pocet lichych cisel: {0}", licha);
     }
 } 
