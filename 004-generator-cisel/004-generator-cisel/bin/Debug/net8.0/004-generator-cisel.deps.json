@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "004-generator/1.0.0": {
+      "004-generator-cisel/1.0.0": {
         "runtime": {
-          "004-generator.dll": {}
+          "004-generator-cisel.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "004-generator/1.0.0": {
+    "004-generator-cisel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github-mc-is-2024-sk1\\004-generator\\004-generator.csproj",
-      "projectName": "004-generator",
-      "projectPath": "C:\\github-mc-is-2024-sk1\\004-generator\\004-generator.csproj",
+      "projectUniqueName": "C:\\github-mc-is-2024-sk1\\004-generator-cisel\\004-generator-cisel\\004-generator-cisel.csproj",
+      "projectName": "004-generator-cisel",
+      "projectPath": "C:\\github-mc-is-2024-sk1\\004-generator-cisel\\004-generator-cisel\\004-generator-cisel.csproj",
       "packagesPath": "C:\\Users\\nejak\\.nuget\\packages\\",
-      "outputPath": "C:\\github-mc-is-2024-sk1\\004-generator\\obj\\",
+      "outputPath": "C:\\github-mc-is-2024-sk1\\004-generator-cisel\\004-generator-cisel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nejak\\AppData\\Roaming\\NuGet\\NuGet.Config"

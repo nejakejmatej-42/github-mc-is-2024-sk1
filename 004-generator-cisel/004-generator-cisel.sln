@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-generator", "004-generator\004-generator.csproj", "{78E8EAA5-E8E9-4AA9-88D4-9877F178560F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-generator-cisel", "004-generator-cisel\004-generator-cisel.csproj", "{AC4C1F38-4807-4548-A707-83E71CF49D19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{78E8EAA5-E8E9-4AA9-88D4-9877F178560F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78E8EAA5-E8E9-4AA9-88D4-9877F178560F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78E8EAA5-E8E9-4AA9-88D4-9877F178560F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78E8EAA5-E8E9-4AA9-88D4-9877F178560F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4C1F38-4807-4548-A707-83E71CF49D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4C1F38-4807-4548-A707-83E71CF49D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4C1F38-4807-4548-A707-83E71CF49D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4C1F38-4807-4548-A707-83E71CF49D19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
