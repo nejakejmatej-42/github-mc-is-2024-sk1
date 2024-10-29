@@ -7,7 +7,7 @@ using Microsoft.Win32.SafeHandles;
 class Program
 {
     static void Main() {
-        /*Console.Write("Zadejte vysku (cele cislo): ");
+        Console.Write("Zadejte vysku (cele cislo): ");
         int height;  // leva strana aka vyska
         while(!int.TryParse(Console.ReadLine(), out height)){ // vykricni je negace, dokud nezada uzivatel nesplni podminku, program se nespusti ale ani nespadne
         Console.Write("Prvni cislo musi byt celociselne");
@@ -49,7 +49,7 @@ class Program
                 }
             }
             Console.WriteLine();           
-     }*/
+     }
     }
 }
  

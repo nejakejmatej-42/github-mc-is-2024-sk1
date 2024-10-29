@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu.csproj": {}
+    "c:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu.csproj": {}
   },
   "projects": {
-    "C:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu.csproj": {
+    "c:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu.csproj",
+        "projectUniqueName": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu.csproj",
         "projectName": "003-vykreslovani-obrazcu",
-        "projectPath": "C:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu.csproj",
+        "projectPath": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu.csproj",
         "packagesPath": "C:\\Users\\nejak\\.nuget\\packages\\",
-        "outputPath": "C:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\obj\\",
+        "outputPath": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\003-vykreslovani-obrazcu\\003-vykreslovani-obrazcu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nejak\\AppData\\Roaming\\NuGet\\NuGet.Config"
