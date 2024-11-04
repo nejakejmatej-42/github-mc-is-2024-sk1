@@ -1,0 +1,15 @@
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\bin\Debug\net8.0\005-vykreslovani-3-obrazcu.exe
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\bin\Debug\net8.0\005-vykreslovani-3-obrazcu.deps.json
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\bin\Debug\net8.0\005-vykreslovani-3-obrazcu.runtimeconfig.json
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\bin\Debug\net8.0\005-vykreslovani-3-obrazcu.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\bin\Debug\net8.0\005-vykreslovani-3-obrazcu.pdb
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\005-vykreslovani-3-obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\005-vykreslovani-3-obrazcu.AssemblyInfoInputs.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\005-vykreslovani-3-obrazcu.AssemblyInfo.cs
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\005-vykreslovani-3-obrazcu.csproj.CoreCompileInputs.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\005-vykreslovani-3-obrazcu.sourcelink.json
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\005-vykreslovani-3-obrazcu.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\refint\005-vykreslovani-3-obrazcu.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\005-vykreslovani-3-obrazcu.pdb
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\005-vykreslovani-3-obrazcu.genruntimeconfig.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\005-vykreslovani-3-obrazcu\005-vykreslovani-3-obrazcu\obj\Debug\net8.0\ref\005-vykreslovani-3-obrazcu.dll
