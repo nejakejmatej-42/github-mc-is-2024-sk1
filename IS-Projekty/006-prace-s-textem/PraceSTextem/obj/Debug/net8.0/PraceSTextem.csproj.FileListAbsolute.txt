@@ -1,0 +1,15 @@
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\bin\Debug\net8.0\PraceSTextem.exe
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\bin\Debug\net8.0\PraceSTextem.deps.json
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\bin\Debug\net8.0\PraceSTextem.runtimeconfig.json
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\bin\Debug\net8.0\PraceSTextem.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\bin\Debug\net8.0\PraceSTextem.pdb
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\PraceSTextem.GeneratedMSBuildEditorConfig.editorconfig
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\PraceSTextem.AssemblyInfoInputs.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\PraceSTextem.AssemblyInfo.cs
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\PraceSTextem.csproj.CoreCompileInputs.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\PraceSTextem.sourcelink.json
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\PraceSTextem.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\refint\PraceSTextem.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\PraceSTextem.pdb
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\PraceSTextem.genruntimeconfig.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\006-prace-s-textem\PraceSTextem\obj\Debug\net8.0\ref\PraceSTextem.dll

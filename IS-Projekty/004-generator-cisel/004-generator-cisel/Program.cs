@@ -73,15 +73,29 @@ class Program
         int nuly = 0;
         int suda = 0;
         int licha = 0;
+        int max = myArray[0];
+        int min = myArray[0];
+        int poziceMin = 0;
+        int poziceMax = 0;
 
         Random randomNumber = new Random();
         Console.WriteLine("\n\nNahodna cisla");
+        
 
 
-        for(int i=0; i<number; i++){
+        for(int i= 1; i < number; i++){
             myArray[i] = randomNumber.Next(dolniMez, horniMez);
             Console.WriteLine("{0}", myArray[i]);
 
+            //max, minumum
+            if(myArray[i] > max){
+                max = myArray[i];
+            }
+            else if (myArray[i] < max){
+                min = myArray[i];
+            }
+            
+            //jake to je cislo
             if(myArray[i]>0)
                 kladna++;
             else if (myArray[i]<0)
@@ -89,14 +103,29 @@ class Program
             else 
                 nuly++;
 
+            //sudost, lichost
             if(myArray[i] % 2 == 0)
                 suda++;
             else
                 licha++;
+
+            //kde se cislo nachazi
+            if (myArray[i] > max) {
+                max = myArray[i];
+                poziceMax = i;
+            } 
+            else if (myArray[i] < min) {
+                min = myArray[i];
+                poziceMin = i;
+    }
         }
         Console.WriteLine();
+        Console.WriteLine("Cislo maximalni: {0}", max);
+        Console.WriteLine("Pozice max: {0}", poziceMax);
+        Console.WriteLine("Cislo minimum: {0}", min);
+        Console.WriteLine("Pozice min: {0}", poziceMin);
         Console.WriteLine("Pocet kladnych cisel: {0}", kladna);
-        Console.WriteLine("Pocet kladnych cisel: {0}", zaporna);
+        Console.WriteLine("Pocet zapornych cisel: {0}", zaporna);
         Console.WriteLine("Pocet nul: {0}", nuly);
         Console.WriteLine("Pocet sudych cisel: {0}", suda);
         Console.WriteLine("Pocet lichych cisel: {0}", licha);

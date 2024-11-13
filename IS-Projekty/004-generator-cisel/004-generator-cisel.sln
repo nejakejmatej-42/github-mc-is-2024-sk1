@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-generator-cisel", "004-generator-cisel\004-generator-cisel.csproj", "{AC4C1F38-4807-4548-A707-83E71CF49D19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraceSTextem", "..\006-prace-s-textem\PraceSTextem\PraceSTextem.csproj", "{6C135484-CC32-492F-8035-46E14C45666D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{AC4C1F38-4807-4548-A707-83E71CF49D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC4C1F38-4807-4548-A707-83E71CF49D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC4C1F38-4807-4548-A707-83E71CF49D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C135484-CC32-492F-8035-46E14C45666D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C135484-CC32-492F-8035-46E14C45666D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C135484-CC32-492F-8035-46E14C45666D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C135484-CC32-492F-8035-46E14C45666D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
