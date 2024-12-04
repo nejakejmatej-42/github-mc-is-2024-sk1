@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\PraceSTextem.csproj": {}
+    "C:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\PraceSTextem.csproj": {}
   },
   "projects": {
-    "c:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\PraceSTextem.csproj": {
+    "C:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\PraceSTextem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\PraceSTextem.csproj",
+        "projectUniqueName": "C:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\PraceSTextem.csproj",
         "projectName": "PraceSTextem",
-        "projectPath": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\PraceSTextem.csproj",
+        "projectPath": "C:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\PraceSTextem.csproj",
         "packagesPath": "C:\\Users\\nejak\\.nuget\\packages\\",
-        "outputPath": "c:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\obj\\",
+        "outputPath": "C:\\github-mc-is-2024-sk1\\IS-Projekty\\006-prace-s-textem\\PraceSTextem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nejak\\AppData\\Roaming\\NuGet\\NuGet.Config"

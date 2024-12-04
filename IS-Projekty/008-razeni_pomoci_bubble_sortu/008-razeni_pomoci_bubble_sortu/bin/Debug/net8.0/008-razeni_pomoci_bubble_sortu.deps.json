@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "008-razeni_pomoci_bubble_sortu/1.0.0": {
+        "runtime": {
+          "008-razeni_pomoci_bubble_sortu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "008-razeni_pomoci_bubble_sortu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

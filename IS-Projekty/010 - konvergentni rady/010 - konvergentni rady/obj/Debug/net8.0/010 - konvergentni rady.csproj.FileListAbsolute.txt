@@ -1,0 +1,15 @@
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\bin\Debug\net8.0\010 - konvergentni rady.exe
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\bin\Debug\net8.0\010 - konvergentni rady.deps.json
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\bin\Debug\net8.0\010 - konvergentni rady.runtimeconfig.json
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\bin\Debug\net8.0\010 - konvergentni rady.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\bin\Debug\net8.0\010 - konvergentni rady.pdb
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\010 - konvergentni rady.GeneratedMSBuildEditorConfig.editorconfig
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\010 - konvergentni rady.AssemblyInfoInputs.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\010 - konvergentni rady.AssemblyInfo.cs
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\010 - konvergentni rady.csproj.CoreCompileInputs.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\010 - konvergentni rady.sourcelink.json
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\010 - konvergentni rady.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\refint\010 - konvergentni rady.dll
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\010 - konvergentni rady.pdb
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\010 - konvergentni rady.genruntimeconfig.cache
+c:\github-mc-is-2024-sk1\IS-Projekty\010 - konvergentni rady\010 - konvergentni rady\obj\Debug\net8.0\ref\010 - konvergentni rady.dll
